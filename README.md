@@ -1,1 +1,1 @@
-# 320_initial_repo
+# Repository for git setup, Kabir Sharma
